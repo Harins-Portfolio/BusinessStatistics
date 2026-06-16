@@ -1,0 +1,19 @@
+Tienda,Canal_venta,Region,Tipo_cliente,Ventas_mensuales,Num_pedidos,Ticket_medio,Satisfaccion_cliente,Antiguedad
+T001,Online,Norte,Particular,8200,210,39.05,4,2
+T002,Online,Centro,Particular,7600,190,40.00,4,1
+T003,Online,Sur,Particular,9100,240,37.92,5,3
+T004,Online,Este,Particular,6900,175,39.43,3,1
+T005,Tienda fisica,Norte,Particular,12500,260,48.08,4,8
+T006,Tienda fisica,Centro,Particular,13800,275,50.18,5,10
+T007,Tienda fisica,Sur,Particular,11200,230,48.70,3,6
+T008,Tienda fisica,Este,Particular,14900,290,51.38,4,12
+T009,Distribuidor,Norte,Empresa,24500,80,306.25,4,5
+T010,Distribuidor,Centro,Empresa,28200,95,296.84,5,7
+T011,Distribuidor,Sur,Empresa,19800,70,282.86,3,4
+T012,Distribuidor,Este,Empresa,31500,105,300.00,5,9
+T013,Online,Norte,Particular,8700,225,38.67,4,2
+T014,Online,Centro,Particular,7200,180,40.00,3,1
+T015,Tienda fisica,Sur,Particular,15600,310,50.32,5,11
+T016,Distribuidor,Centro,Empresa,33500,110,304.55,4,10
+T017,Online,Este,Particular,6400,165,38.79,2,1
+T018,Tienda fisica,Norte,Particular,13200,265,49.81,4,9
