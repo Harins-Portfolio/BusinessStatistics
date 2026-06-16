@@ -1,6 +1,6 @@
 # Business Statistics Portfolio 📊🚀
 
-Welcome! This repository documents my analytical journey through the Master’s in Business Analytics at UNIE Universidad. Here, I translate academic mathematical foundations, statistical inference, and machine learning models into **clear, risk-adjusted strategic recommendations** that any business owner can use to grow revenue and optimize operations.
+Welcome! This repository documents my analytical journey. Here, I translate academic mathematical foundations, statistical inference, and machine learning models into **clear, risk-adjusted strategic recommendations** that any business owner can use to grow revenue and optimize operations.
 
 Instead of hiding behind academic jargon, this portfolio focuses entirely on **Business Outcomes**:
 *   How to spot hidden market patterns.
